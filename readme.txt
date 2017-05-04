@@ -8,3 +8,4 @@ I don't believe that it is so easy.
 Creating a new branch is quick!
 
 Creating a new branch is quick & simple
+
