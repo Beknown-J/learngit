@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git trscks changes
 
 I don't believe that it is so easy.
+
+Creating a new branch is quick!
